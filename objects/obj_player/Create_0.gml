@@ -1,6 +1,7 @@
 x_size = image_xscale;
 y_size = image_yscale;
 
+cooldown = 0;
 boost = 0;
 grv = 0.05;
 spd = 0.1;
